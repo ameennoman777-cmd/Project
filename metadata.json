@@ -1,0 +1,6 @@
+{
+  "name": "ArabBuilder AI",
+  "description": "AI-powered Arabic SaaS Website Builder similar to Wix AI, Framer, and Durable. Generate, customize, and deploy stunning responsive Arabic websites instantly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
